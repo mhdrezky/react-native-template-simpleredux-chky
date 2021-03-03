@@ -1,0 +1,8 @@
+{
+    "name": "react-native-template-simpleredux-chky",
+    "version": "0.0.1",
+    "description": "React Native Simple Redux with Navigation Template",
+    "repository": "https://github.com/mhdrezky/react-native-template-simpleredux-chky",
+    "author": "Muhammad Rezky <mhdrezky@gmail.com>",
+    "license": "MIT"
+  }
